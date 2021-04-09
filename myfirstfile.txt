@@ -1,0 +1,14 @@
+C:/Documents/learning_git/myfirstfile.txt
+
+
+This is my first time using git. It's not hard, but I missed a few things during lecture. 
+
+Folders and files to be moved:
+C:\Users\Tom\Documents\learning_java
+C:\Users\Tom\Documents\Learning_sql
+C:\Users\Tom\Documents\CoreJavaBasics.java
+C:\Users\Tom\Documents\src
+C:\Users\Tom\FileReadWrite
+C:\Users\Tom\TEST
+C:\Users\Tom\PlayinAround.java
+C:\Users\Tom\Java Projects
